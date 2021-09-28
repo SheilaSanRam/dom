@@ -1,7 +1,6 @@
 const edad = document.querySelector('#edad');
 const input = document.querySelector('#input');
-
-
+const btn=document.querySelector('#btn');
 
 /* Obtener el valor del input */
 const readAge = () => {
